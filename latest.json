@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Release v0.3.0",
-  "pub_date": "2026-06-25T12:47:32.150Z",
+  "version": "0.4.0",
+  "notes": "Release v0.4.0",
+  "pub_date": "2026-06-26T04:41:10.004Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMStWUXJmemF5MTZUWFNocVNFVUpXdVlubHFDNU9DNnRXZ0wxWXZwd0tOSTFTQXVFSExGOGs3eWxCNDZPRjEyVFBib2dTMWZjTjR3MmJLeWlFaXkxTGtFbFR4MHYwdlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzkxNjUyCWZpbGU6TW9kTWFuYWdlcl8wLjMuMF94NjRfZW4tVVMubXNpCjJla1l0L2ptbUxtNFdiUXZQVjZONDNtY3c2bitWZmpDS3VhNlBNZEt1eVlVbnpLcHJkcHRFam9ZeklvS2dEMENmYkdyOHRDR1RNSzZ1Z25xbE9ERkR3PT0K",
-      "url": "https://raw.githubusercontent.com/navzo/ModManager/main/updates/ModManager_0.3.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMStWUXJmemF5MStYN0ZRREVyWDBRbWdPSzUyUEljV21UaU1XcXVreU5STkpCT1BtdzU3UE1QUFdSQ3F5c1haYy8wTjh3dGZ2ZnpzQ25DZExlRUdsUHY2UXgrUUhnblFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDQ4ODY5CWZpbGU6TW9kTWFuYWdlcl8wLjQuMF94NjRfemgtQ04ubXNpCnZWc0svM29NcTRFQUZoMGR4cVhlT2ZjQitsUndTMlIzdnBCVzg2VWhwZzFkTytLVFFuOEppL0o3YzMzbWFETFpCWk83OUdKTVVKMnBTVDd6UVdVZkFnPT0K",
+      "url": "https://raw.githubusercontent.com/navzo/ModManager/gh-pages/updates/ModManager_0.4.0_x64_zh-CN.msi"
     }
   }
 }
